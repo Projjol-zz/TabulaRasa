@@ -67,6 +67,9 @@ body {
 /*
  * Header
  */
+ .lead {
+  color: #607D8B;
+ }
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
